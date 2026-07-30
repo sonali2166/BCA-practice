@@ -9,9 +9,6 @@ This repository contains the programs and projects I build while learning BCA.
 - C
 - Python
 - Java
-- HTML
-- CSS
-- JavaScript
 - SQL
 
 Thank you for visiting!
